@@ -1,0 +1,5 @@
+h1 { color :blue}
+.spisok {color:darkgreen }
+.example4 {color:red}
+h1 ~ h2 {color: green; 
+font-family: monospace}
