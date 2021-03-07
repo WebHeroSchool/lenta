@@ -1,9 +1,10 @@
 body {
   font-family: 'Tangerine', serif;
-  font-size: 48px;
+  font-size: 18px;
   text-shadow: 4px 4px 4px #aaa;
 }
 
-title {
-  font-family: 'Lato', sans-serif;
+.example4 {
+  font-family: 'Lato', cursive;
+  color:red;
   }
