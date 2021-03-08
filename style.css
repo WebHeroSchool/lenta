@@ -1,5 +1,18 @@
 h1 { color :blue}
 .spisok {color:darkgreen }
-.example4 {color:red}
-h1 ~ h2 {color: green; 
-font-family: monospace}
+
+h1 ~ h2 {
+         color: green; 
+         font-family: monospace;
+         }
+
+body {
+  font-family: 'Tangerine', serif;
+  font-size: 18px;
+  text-shadow: 4px 4px 4px #aaa;
+      }
+
+.example4 {
+  font-family: 'Lato', cursive;
+  color:red;
+  }
